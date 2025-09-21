@@ -15,7 +15,7 @@ This is a game designed for fun in the browser. Currently with this url you can 
 # Step 3. Don't Escape from the White man (👨🏻)
          ↳ The White man is here to help you. Don't shoot him
 # Step 4. Shoot the Black man's food (🍗) 
-         ↳ By shooting the chicken the Black man can't eat anymore so he can't breath like George Floyd 
+         ↳ By shooting the chicken the Black man can't eat anymore so he can't breath like GeorgeFloyd 
 # Step 5.  Enjoy killing the Black man !
 
 
