@@ -4,6 +4,10 @@ This is a game designed for fun in the browser. Currently with this url you can 
 
 
 # 🕹️ How to play: 
+
+ 
+ 
+ 
  Step 1. Use ⬆️
           ⬅️ ⬇️ ➡️
  Step 2. Escape the Black man who tries to rob you (👨🏿)
