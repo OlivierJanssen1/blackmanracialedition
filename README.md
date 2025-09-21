@@ -2,6 +2,7 @@
 
 This is a game designed for fun in the browser. Currently with this url you can play the game  https://olivierjanssen1.github.io/blackmanracialedition/ .
 
+--
 # 🕹️ How to play: 
  Step 1. Use ⬆️
           ⬅️ ⬇️ ➡️
