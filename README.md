@@ -8,7 +8,7 @@ This is a game designed for fun in the browser. Currently with this url you can 
  
  
  
- Step 1. Use ⬆️
+# Step 1. Use ⬆️
           ⬅️ ⬇️ ➡️
  Step 2. Escape the Black man who tries to rob you (👨🏿)
          ↳ You escape the Black man by shooting at him
